@@ -7,7 +7,9 @@ const useReviews = () => {
     useEffect(() => {
         fetch('reviews.json')
             .then(response => response.json())
-            .then(data => setReviews(data))
+            .then(data => {
+                setReviews(data)
+            })
     }, [])
 
     return [reviews, setReviews];

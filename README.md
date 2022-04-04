@@ -1,6 +1,6 @@
 
 
-## Project Name: [Product Analysis Website](https://products-review.netlify.app/)./
+## Project Name: [Product Analysis Website](https://products-review.netlify.app/).
 
 ## Live Website [Product Analysis Website](https://products-review.netlify.app/).
 
